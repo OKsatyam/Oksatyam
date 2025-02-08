@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **System design**
 
-- 👨‍💻 All of my projects are available at [oksataym.vercel](oksataym.vercel)
+- 👨‍💻 All of my projects are available at [oksataym.vercel](oksatyam.vercel)
 
 - 📫 How to reach me **itsmahato786@gmail.com**
 
